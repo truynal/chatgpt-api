@@ -11,7 +11,7 @@ export function home_page(req, res) {
 <body>
 <h3>服务部署成功</h3>
 <p>
-    请在 <a href="https://github.com/truynal/chatgpt-api">zhuweiyou/chatgpt-api</a> 查看使用文档
+    请在 <a href="https://github.com/truynal/chatgpt-api">truynal/chatgpt-api</a> 查看使用文档
 </p>
 </body>
 </html>
