@@ -6,12 +6,12 @@ export function home_page(req, res) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
-    <title>zhuweiyou/chatgpt-api</title>
+    <title>chatgpt-truy-api</title>
 </head>
 <body>
-<h3>部署成功</h3>
+<h3>服务部署成功</h3>
 <p>
-    请在 <a href="https://github.com/zhuweiyou/chatgpt-api">zhuweiyou/chatgpt-api</a> 查看使用文档
+    请在 <a href="https://github.com/truynal/chatgpt-api">zhuweiyou/chatgpt-api</a> 查看使用文档
 </p>
 </body>
 </html>
